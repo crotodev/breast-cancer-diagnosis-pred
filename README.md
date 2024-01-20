@@ -1,0 +1,2 @@
+# Performance of a logistic regression model with and without outliers on the Breast Cancer Wisconsin (Diagnostic) Data Set
+In diagnosis_pred.ipynb, I analyze the performance of a logistic regression model on the Breast Cancer Wisconsin (Diagnostic) Data Set. I compare the performance of the model with and without outliers. The data set is available at https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic).
